@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/502f152c-e703-4d86-b4db-c5f249dddc98/resourceGroups/appsvc_windows_centralus/providers/Microsoft.Web/sites/blogs-16-jmv-new",
+    "appService.deploySubpath": "bin\\Publish"
+}
